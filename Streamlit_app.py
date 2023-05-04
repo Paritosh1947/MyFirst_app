@@ -1,6 +1,8 @@
 import streamlit
 
-streamlit.title('Welcome to first note')
-streamlit.header('This is header')
-streamlit.text('This is texr')
-streamlit.text('This is new text')
+streamlit.title('healthy food')
+streamlit.header('Breakfast Menu')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Toast')
