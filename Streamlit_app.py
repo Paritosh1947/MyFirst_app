@@ -29,7 +29,7 @@ streamlit.dataframe(my_fruit_list)
 #New section to display API response
 import requests
 fruityvice_response = requests.get("https://fruityvice.com/api/fruit/watermelon")
-streamlit.text(fruityvice_response)
+streamlit.text(fruityvice_response.jason())
 
 
 
