@@ -1,2 +1,2 @@
-# reqierment list
-snoflake-connector-python
+# requirement list
+snowflake-connector-python
