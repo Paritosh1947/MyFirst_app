@@ -1,0 +1,2 @@
+# reqierment list
+snoflake-connector-python
